@@ -1,4 +1,5 @@
-Jogo de Descobrir um Número Secreto
+<h2>**Jogo de Descobrir um Número Secreto**</h2>
+
 
 ![Print](https://github.com/alesousz/Jogo-do-numero-secreto/blob/main/img/print.png)
 
@@ -13,15 +14,10 @@ Como Usar
 
 Tecnologias
 
-Contribuidores
-
 Desenvolvedores
 
-Licença
 
-Referências
-
-Descrição
+**Descrição**
 
 Este é um projeto desenvolvido no Programa ONE, em parceria com o Potência Tech powered by iFood. É o segundo curso de lógica de programação e envolveu o uso de JavaScript, HTML, CSS e DOM para criar um jogo de descobrir um número secreto.
 
@@ -29,7 +25,7 @@ O jogo consiste em tentar adivinhar um número entre 1 e 100, que é gerado alea
 
 O objetivo do projeto é praticar os conceitos de lógica de programação, como variáveis, operadores, condicionais, laços, funções e eventos, além de aprender a manipular o HTML e o CSS usando o DOM (Document Object Model).
 
-Funcionalidades
+**Funcionalidades**
 
 Gerar um número secreto entre 1 e 100
 
@@ -45,7 +41,7 @@ Mostrar uma mensagem de vitória ou derrota ao final do jogo
 
 Permitir que o jogador reinicie o jogo
 
-Como Usar
+**Como Usar**
 
 Para jogar o jogo, você pode acessá-lo online pelo link: http://jogo-do-numero-secreto-tau-lake.vercel.app
 
@@ -59,7 +55,7 @@ Abrir o arquivo index.html com o seu navegador de preferência
 
 Divertir-se com o jogo!
 
-Tecnologias
+**Tecnologias**
 
 As tecnologias utilizadas neste projeto foram:
 
@@ -71,7 +67,7 @@ JavaScript: para programar a lógica e a interatividade do jogo
 
 DOM: para manipular o HTML e o CSS usando o JavaScript
 
-Desenvolvedores
+**Desenvolvedores**
 
 Este projeto foi desenvolvido por: Alexandre 
 
