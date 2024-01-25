@@ -19,6 +19,7 @@ O jogo consiste em tentar adivinhar um número entre 1 e 100, que é gerado alea
 O objetivo do projeto é praticar os conceitos de lógica de programação, como variáveis, operadores, condicionais, laços, funções e eventos, além de aprender a manipular o HTML e o CSS usando o DOM (Document Object Model).
 
 Funcionalidades
+
 Gerar um número secreto entre 1 e 100
 Receber o palpite do jogador pelo input
 Validar o palpite e mostrar uma mensagem de erro se for inválido
@@ -28,6 +29,7 @@ Mostrar uma mensagem de vitória ou derrota ao final do jogo
 Permitir que o jogador reinicie o jogo
 
 Como Usar
+
 Para jogar o jogo, você pode acessá-lo online pelo link: http://jogo-do-numero-secreto-tau-lake.vercel.app
 
 Ou você pode baixar o código-fonte do projeto pelo GitHub e executá-lo localmente no seu navegador. Para isso, você precisa seguir os seguintes passos:
@@ -45,5 +47,6 @@ JavaScript: para programar a lógica e a interatividade do jogo
 DOM: para manipular o HTML e o CSS usando o JavaScript
 
 Desenvolvedores
+
 Este projeto foi desenvolvido por: Alexandre 
 
