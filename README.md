@@ -1,6 +1,7 @@
 Jogo de Descobrir um Número Secreto
 
-![print do site] https://github.com/alesousz/Jogo-do-numero-secreto/blob/main/img/print.png
+![Print]([https://example.com/logo.png](https://github.com/alesousz/Jogo-do-numero-secreto/blob/15dff6860685cac65a1b8e624f221ad06e321cbc/img/print.png))
+
 
 !Status: Concluído !Tecnologias: HTML, CSS, JavaScript, DOM !Licença: MIT
 
