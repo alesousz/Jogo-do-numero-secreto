@@ -1,5 +1,5 @@
 Jogo de Descobrir um Número Secreto
-
+! print.png
 !Status: Concluído !Tecnologias: HTML, CSS, JavaScript, DOM !Licença: MIT
 
 Índice
