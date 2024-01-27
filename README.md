@@ -1,20 +1,16 @@
-<h2>**Jogo de Descobrir um Número Secreto**</h2>
+<h1 align="center"> Jogo do numero Secreto </h1>
+<br><br>
 
 
-![Print](https://github.com/alesousz/Jogo-do-numero-secreto/blob/main/img/print.png)
+* [Índice](#índice)
 
+* [Descrição do Projeto](#descrição-do-projeto)
 
-Índice
+* [Funcionalidades](#funcionalidades)
 
-Descrição
+* [Como Usar](#como-usar)
 
-Funcionalidades
-
-Como Usar
-
-Tecnologias
-
-Desenvolvedores
+*[Desenvolvedores](#desenvolvedores)
 
 
 **Descrição**
@@ -27,20 +23,14 @@ O objetivo do projeto é praticar os conceitos de lógica de programação, como
 
 **Funcionalidades**
 
-* Gerar um número secreto entre 1 e 100
+- `Funcionalidade 1`: Gerar um número secreto entre 1 e 100
+- `Funcionalidade 2`: Receber o palpite do jogador pelo input
+- `Funcionalidade 3`: Validar o palpite e mostrar uma mensagem de erro se for inválido
+- `Funcionalidade 4`: Comparar o palpite com o número secreto e mostrar uma mensagem se for igual, maior ou menor
+- `Funcionalidade 5`: Mostrar uma mensagem de vitória ou derrota ao final do jogo
 
-* Receber o palpite do jogador pelo input
-
-* Validar o palpite e mostrar uma mensagem de erro se for inválido
-
-* Comparar o palpite com o número secreto e mostrar uma mensagem se for igual, maior ou menor
-
-* Atualizar o número de tentativas restantes e os palpites anteriores
-
-* Mostrar uma mensagem de vitória ou derrota ao final do jogo
-
-* Permitir que o jogador reinicie o jogo
-
+![Jogo do numero secreto](https://github.com/alesousz/Jogo-do-numero-secreto/assets/111446099/980eaad6-c041-42c8-af59-1e98f93acb9e)
+  
 **Como Usar**
 
 Para jogar o jogo, você pode acessá-lo online pelo link: http://jogo-do-numero-secreto-tau-lake.vercel.app
